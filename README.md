@@ -22,7 +22,9 @@ Python (LeetCode, Exercism) · SQL · JavaScript/TypeScript (Bitburner)
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark)](https://discord.com/users/1174384897901727787)
+<a href="https://discord.com/users/1174384897901727787">
+  <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark" width="380" />
+</a>
 
 ## GitHub Stats
 
