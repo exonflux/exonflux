@@ -12,14 +12,6 @@ Aktuell im Aufbau — Python (LeetCode, Exercism) · SQL · JavaScript/TypeScrip
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=exonflux&amp;show_icons=true&amp;theme=dark" width="420" />
-    </td>
-    <td valign="top">
-      <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideActivity=true&amp;hideSpotify=true&amp;hideStatus=true&amp;hideBadges=true&amp;hideTimestamp=true&amp;hideTag=true&amp;hideDecoration=true" width="300" /><br/><br/>
-      <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideProfile=true" width="300" />
-    </td>
-  </tr>
-</table>
+<img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideActivity=true&amp;hideSpotify=true&amp;hideStatus=true&amp;hideBadges=true&amp;hideTimestamp=true&amp;hideTag=true&amp;hideDecoration=true" width="300" />
+<br/><br/>
+<img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideProfile=true" width="300" />
