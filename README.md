@@ -18,5 +18,5 @@ IT Specialist for System Integration Apprentice · AP1 exam Feb. 2027
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
+  <img alt="snake" width="100%" src="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
 </picture>
