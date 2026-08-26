@@ -6,7 +6,7 @@ IT Specialist for System Integration Apprentice · AP1 exam Feb. 2027
 
 ## Core Skills
 
-![Skills](https://skillicons.dev/icons?i=cs,py,cpp,arduino,mysql,git,github)
+![Skills](https://skillicons.dev/icons?i=cs,py,cpp,arduino,mysql,bash,powershell,git,github)
 
 - Networking & Systems — Subnetting, VLANs, TCP/IP model, Hyper-V virtualization
 - Arduino — ELEGOO MEGA 2560, C-based control projects
