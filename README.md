@@ -1,4 +1,4 @@
-![banner](dein-bild.png)
+![banner](arasaka.png)
 
 # Exon
 
