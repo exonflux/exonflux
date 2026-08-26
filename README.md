@@ -19,13 +19,14 @@ ELEGOO MEGA 2560, C-basierte Steuerungsprojekte
 Python (LeetCode, Exercism) · SQL · JavaScript/TypeScript (Bitburner)
 
 ---
-
-## Discord
-
-<a href="https://discord.com/users/1174384897901727787">
-  <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark" width="380" />
-</a>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exonflux&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=exonflux&show_icons=true&theme=dark" width="420" />
+    </td>
+    <td valign="top">
+      <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&hideActivity=true&hideSpotify=true&hideStatus=true&hideBadges=true&hideTimestamp=true&hideTag=true&hideDecoration=true" width="300" /><br/><br/>
+      <img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&hideProfile=true" width="300" />
+    </td>
+  </tr>
+</table>
