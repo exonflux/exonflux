@@ -11,6 +11,7 @@ Azubi Fachinformatiker Systemintegration · AP1-Prüfung Feb. 2027
 - Netzwerktechnik & Systeme — Subnetting, VLANs, TCP/IP-Modell, Hyper-V-Virtualisierung
 - Arduino — ELEGOO MEGA 2560, C-basierte Steuerungsprojekte
 - Aktuell im Aufbau — Python (LeetCode, Exercism) · SQL · JavaScript/TypeScript (Bitburner)
+- Ziel — CCNA 200-301 (nach der AP1), danach Richtung Netzwerk-/Cloud-Automatisierung
 
 ---
 
