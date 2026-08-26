@@ -12,6 +12,8 @@ Aktuell im Aufbau — Python (LeetCode, Exercism) · SQL · JavaScript/TypeScrip
 
 ---
 
-<img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideActivity=true&amp;hideSpotify=true&amp;hideStatus=true&amp;hideBadges=true&amp;hideTimestamp=true&amp;hideTag=true&amp;hideDecoration=true" width="300" />
-<br/><br/>
-<img src="https://lanyard.cnrad.dev/api/1174384897901727787?theme=dark&amp;hideProfile=true" width="300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
+</picture>
