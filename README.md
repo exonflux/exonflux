@@ -14,7 +14,6 @@ IT Specialist for System Integration Apprentice · AP1 exam Feb. 2027
 - Goal — CCNA 200-301 (after AP1), then heading toward network/cloud automation
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exonflux/exonflux/output/github-contribution-grid-snake.svg">
